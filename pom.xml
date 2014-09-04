@@ -6,7 +6,7 @@
 
     <groupId>com.takacomic.rpglife</groupId>
     <artifactId>RPGLife</artifactId>
-    <version>0.0.1-${System.getenv("Build_Number") ?: 0}</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <build>
