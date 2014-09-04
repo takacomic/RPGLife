@@ -1,0 +1,5 @@
+name: RPGLife
+main: com.takacomic.rpglife.RPGLife
+version: 0.0.1
+author: takacomic
+softdepend: [Vault, WorldGuard, BarAPI]
